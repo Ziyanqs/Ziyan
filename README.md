@@ -2,13 +2,8 @@
 
 <h2>👨‍💻 My IT Projects:</h2>
 
-- <b>Calculator</b>
-  - 
-- <b>TicTacToe</b>
-  - 
 - <b>GradeConvertor</b>
-  - [Letter Grade](https://github.com/Ziyanqs/GradeConvertor
-)
+  - [Letter Grade](https://github.com/Ziyanqs/GradeConvertor)
 
 
 <h2> 🤳 Connect with me:</h2>
