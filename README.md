@@ -7,7 +7,8 @@
 - <b>TicTacToe</b>
   - 
 - <b>GradeConvertor</b>
-  -
+  - [Letter Grade](https://github.com/Ziyanqs/GradeConvertor
+)
 
 
 <h2> 🤳 Connect with me:</h2>
