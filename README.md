@@ -7,7 +7,7 @@
 - <b>Calculator Java</b>
   - [Calculator](https://github.com/Ziyanqs/Calculator)
 - <b>My Portfolio practice Using HTML and CSS</b>
-  - [Calculator](https://github.com/Ziyanqs/Portfolio)
+  - [Portfolio](https://github.com/Ziyanqs/Portfolio)
 
 
 </br>
