@@ -3,7 +3,7 @@
 <h2>👨‍💻 My IT Projects:</h2>
 
 - <b>GradeConvertor</b>
-  - [Letter Grade](https://github.com/Ziyanqs/GradeConvertor)
+  - [Letter Grade Convertor](https://github.com/Ziyanqs/GradeConvertor)
 - <b>Calculator Java</b>
   - [Calculator](https://github.com/Ziyanqs/Calculator)
 
