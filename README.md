@@ -6,6 +6,7 @@ Strong organizational skills and detail orientation. Embodies hands-on knowledge
 working in a fast-paced environment. An effective communicator and create solutions to problems on the spot.
 To seek and maintain a full-time/part-time position that offers professional challenges utilizing interpersonal
 skills, excellent time management and problem-solving skills.</b>
+</br>
 
 <h2>👨‍💻 My IT Projects:</h2>
 
@@ -17,6 +18,7 @@ skills, excellent time management and problem-solving skills.</b>
   - [Portfolio](https://github.com/Ziyanqs/MyPortfolio)
 
 
+</br>
 </br>
 <h2> 🤳 Connect with me:</h2>
 
