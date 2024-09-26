@@ -4,6 +4,8 @@
 
 - <b>GradeConvertor</b>
   - [Letter Grade](https://github.com/Ziyanqs/GradeConvertor)
+- <b>Calculator Java</b>
+  - [Letter Grade](https://github.com/Ziyanqs/Calculator)
 
 </br>
 <h2> 🤳 Connect with me:</h2>
