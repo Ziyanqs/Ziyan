@@ -1,11 +1,6 @@
 <h1>Hi, I'm Ziyan! </h1>
 
-<b>Diligent and reliable undergrad Information Technology student at York University, with a great passion for IT.
-Strong organizational skills and detail orientation. Embodies hands-on knowledge of Microsoft Suite
-365(Word, Excel, Powerpoint, etc), and some coding like Java, HTML, and CSS. Very comfortable with
-working in a fast-paced environment. An effective communicator and create solutions to problems on the spot.
-To seek and maintain a full-time/part-time position that offers professional challenges utilizing interpersonal
-skills, excellent time management and problem-solving skills.</b>
+<b>Diligent and reliable Information Technology graduate from York University with a passion for IT. Possess hands-on knowledge of Microsoft 365 Suite (Word, Excel, PowerPoint), programming languages like Java, HTML, CSS, and experience in LAN setup, troubleshooting, and cloud technologies. Proven ability to work in fast-paced environments and solve problems efficiently.</b>
 </br>
 
 <h2>👨‍💻 My IT Projects:</h2>
